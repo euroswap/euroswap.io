@@ -10,9 +10,6 @@ In 2021, the number of cryptocurrency holders in Europe was less than 5% of the 
 # [euroswap.io](https://euroswap.io)
 dapp: https://euroswap.io
 
-
-Team: https://euroswap-io.gitbook.io/euroswap/meet-the-team
-
 #### euroswap.io Contracts
 - EuroToken: [0x5D11Cb1D41BB18D1120a041CDF08155E4581a603](https://bscscan.com/address/0x5D11Cb1D41BB18D1120a041CDF08155E4581a603)
 
