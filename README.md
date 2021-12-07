@@ -1,4 +1,4 @@
-<img src="https://euroswap.io/images/euro2.jpeg" align="center"> 
+<img src="https://euroswap.io/logo.svg" align="center"> 
 <br />
 
 ### Project Overview
