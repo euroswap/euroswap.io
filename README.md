@@ -1,5 +1,4 @@
-<p><img src="https://euroswap.io/images/euro2.jpeg" align="left"> </p>
-# 
+
 
 # [euroswap.io](https://euroswap.io)
 dapp: https://euroswap.io
