@@ -1,4 +1,4 @@
-<img src="http://euroswap.io/img/EDEX.png" align="left">
+<img src="https://euroswap.io/images/euro2.jpeg" align="left">
 
 # [euroswap.io](https://euroswap.io)
 dapp: https://euroswap.io
