@@ -20,3 +20,20 @@ dapp: https://euroswap.io
 - Telegram:   https://t.me/euroswap_io
 - Medium:     https://medium.com/@euroswap.io
 - Buy EDEX:   https://app.euroswap.io
+
+# EuroSwap in News
+- https://www.bloomberg.com/press-releases/2021-12-06/euroswap-edex-presented-the-team-and-went-straight-into-the-main-development-phase
+- https://beincrypto.com/the-priority-investors-list-of-the-euroswap-edex-project/
+- https://ambcrypto.com/euroswap-edex-official-vector-of-europe-in-crypto-and-the-worlds-first-dex-pegged-to-the-euro/
+- https://bitcoinist.com/euroswap-edex-an-ideal-example-of-the-development-of-a-global-crypto-project-in-2021/
+- https://finance.yahoo.com/news/euroswap-edex-first-european-dex-043900004.html
+- https://www.dailyadvent.com/news/54d802bae5941d99b0d6f0733ac09f5b-EuroSwap-EDEX-The-Ideal-Example-of-the-Development-of-a-Global-Crypto-Project-in-2021
+- https://bitcoinethereumnews.com/economy/euroswap-edex-is-not-just-another-kitchen-token/
+- https://insidebitcoins.com/news/priority-investors-euroswap-edex-project
+- https://actufinance.fr/actu/qui-sont-les-investisseurs-prioritaires-pour-le-projet-euroswap-edex-7067370.html
+- https://www.kryptoportal.pl/kryptowaluty/lista-inwestorow-priorytetowych-euroswap-edex/
+- https://coincierge.de/2021/wer-wird-in-die-liste-der-priority-investoren-des-euroswap-edex-projekts-aufgenommen/
+
+
+
+
