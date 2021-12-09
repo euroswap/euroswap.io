@@ -5,7 +5,7 @@
 The unique EDEX trading platform provides a solution to Europe's smooth transition to the digital era. First of all, thanks to the perfect Decentralized Finance technology based on Binance Smart Chain. BSC smart contracts allowed the EuroSwap project to create a reliable, and most importantly, an affordable resource for the exchange of digital assets.
 Partnership with major payment systems such as VISA opens up the possibility of a harmonious connection of crypto and fiat assets. Thus, a person gets access to the crypto world with a minimum threshold of entry, intuitive mechanics and unlimited possibilities for managing their funds.
 The European Decentral Crypto Exchange allows you to buy cryptocurrency for euros using a regular bank card, invest in any available and promising asset, and withdraw the earned interest on investments back to your bank card in euro.
-In 2021, the number of cryptocurrency holders in Europe was less than 5% of the total population. EuroSwap's mission is to promote the initiatives of the European Parliament and increase the involvement of Europeans in crypto up to 25% by 2024. EDEX is a self-contained cryptocurrency and fiat euro trading technology that supports the European vector of the digitalization of the economy.
+In 2021, the number of cryptocurrency holders in Europe was less than 5% of the total population. EuroSwap's mission is to promote the initiatives of the European Parliament and increase the involvement of Europeans in crypto up to 25% by 2024. EDEX is a self-contained cryptocurrency and fiat euro trading technology that supports the European vector of the digitalization of the economy. 
 
 # [euroswap.io](https://euroswap.io)
 dapp: https://euroswap.io
