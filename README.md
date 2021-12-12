@@ -11,8 +11,8 @@ In 2021, the number of cryptocurrency holders in Europe was less than 5% of the 
 dapp: https://euroswap.io
 
 #### euroswap.io Contracts
-- EuroToken: [0x5D11Cb1D41BB18D1120a041CDF08155E4581a603](https://bscscan.com/address/0x5D11Cb1D41BB18D1120a041CDF08155E4581a603)
-- PreSale    [0x8bD178b0B7e5fcD7F676Ebfc712D1cF4723844f0](https://bscscan.com/address/0x8bD178b0B7e5fcD7F676Ebfc712D1cF4723844f0#readContract)
+- EuroToken: [0x2dc4fbedcccb50d69ba316cf7085b8913f06193d](https://bscscan.com/token/0x2dc4fbedcccb50d69ba316cf7085b8913f06193d)
+- PreSale    [0x6d74fa7cb5bfe5f122a0379851dcbd37065dcc18](https://bscscan.com/address/0x6d74fa7cb5bfe5f122a0379851dcbd37065dcc18)
 
 # Contact Us
 - Twitter:    https://mobile.twitter.com/euroswap_io
