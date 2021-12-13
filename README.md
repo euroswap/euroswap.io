@@ -8,7 +8,7 @@ The European Decentral Crypto Exchange allows you to buy cryptocurrency for euro
 In 2021, the number of cryptocurrency holders in Europe was less than 5% of the total population. EuroSwap's mission is to promote the initiatives of the European Parliament and increase the involvement of Europeans in crypto up to 25% by 2024. EDEX is a self-contained cryptocurrency and fiat euro trading technology that supports the European vector of the digitalization of the economy. 
 
 # [euroswap.io](https://euroswap.io)
-dapp: https://euroswap.io
+dapp: https://EuroSwap.io
 
 #### euroswap.io Contracts
 - EuroToken: [0x2dc4fbedcccb50d69ba316cf7085b8913f06193d](https://bscscan.com/token/0x2dc4fbedcccb50d69ba316cf7085b8913f06193d)
