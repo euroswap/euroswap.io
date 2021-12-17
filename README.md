@@ -21,7 +21,8 @@ dapp: https://EuroSwap.io
 - Medium:     https://medium.com/@euroswap.io
 - Buy EDEX:   https://app.euroswap.io
 
-# EuroSwap in News
+# EuroSwap in News:
+
 - https://www.bloomberg.com/press-releases/2021-12-06/euroswap-edex-presented-the-team-and-went-straight-into-the-main-development-phase
 - https://beincrypto.com/the-priority-investors-list-of-the-euroswap-edex-project/
 - https://ambcrypto.com/euroswap-edex-official-vector-of-europe-in-crypto-and-the-worlds-first-dex-pegged-to-the-euro/
