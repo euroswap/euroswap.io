@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.6.2;
+pragma solidity 0.6.2;
 
 import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/IBEP20.sol';
 import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/SafeBEP20.sol';
@@ -17,7 +17,7 @@ contract EuroSwapPresale is ReentrancyGuard, Context, Ownable {
     // The token being sold
     IBEP20 public EDEX;
 
-    // The rate token
+    // The rate token. NOTE: the rate token is used outside of contract in UI
     IBEP20 public rateToken;
     // address where funds are collected
     address payable public wallet;
@@ -43,20 +43,23 @@ contract EuroSwapPresale is ReentrancyGuard, Context, Ownable {
         address payable _wallet,
         address _rateToken,
         uint256 _startRate,
-        // uint256 _minInvestment,
         uint256 _step,
         uint256 _start,
-        address[] memory supportetTokens
+        address[] memory supportedTokens
     ) public {
+        require(address(_edex) != address(0));
+        require(address(_wallet) != address(0));
+        require(address(_rateToken) != address(0));
+        require(_step >= _startRate);
         EDEX = IBEP20(_edex);
         rateToken = IBEP20(_rateToken);
         wallet = _wallet;
         startRate = _startRate;
-        // minInvestment = _minInvestment;
         start = _start;
         step = _step;
-        for (uint256 index = 0; index < supportetTokens.length; index++) {
-            _supportedTokens[supportetTokens[index]] = true;
+        for (uint256 index = 0; index < supportedTokens.length; index++) {
+            require(address(supportedTokens[index]) != address(0));
+            _supportedTokens[supportedTokens[index]] = true;
         }
     }
 
@@ -80,29 +83,9 @@ contract EuroSwapPresale is ReentrancyGuard, Context, Ownable {
         emit TokenPurchase(_msgSender(), _token, _value, amount);
     }
 
-    function updateStartRate(uint256 _startRate) external onlyOwner nonReentrant {
-        startRate = _startRate;
-    }
-
-    function updateStart(uint256 _start) external onlyOwner nonReentrant {
-        start = _start;
-    }
-
-    function updateStep(uint256 _step) external onlyOwner nonReentrant {
-        step = _step;
-    }
-
     // return true if the transaction can buy tokens
     function validPurchase(uint256 value, address token) internal view returns (bool) {
-        bool notSmallAmount = value > 0; // value >= minInvestment;
+        bool notSmallAmount = value > 0;
         return (notSmallAmount && _supportedTokens[token]);
-    }
-
-    receive() external payable {
-        payable(msg.sender).sendValue(msg.value); // return any direct payments
-    }
-
-    function emergencyWithdraw(address _token) external onlyOwner nonReentrant {
-        IBEP20(_token).safeTransfer(owner(), IBEP20(_token).balanceOf(address(this)));
-    }
+    }  
 }
