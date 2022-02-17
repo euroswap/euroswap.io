@@ -1,6 +1,7 @@
 <img src="https://euroswap.io/logo.svg" align="center">  
 <br />
 
+# SCAM !
 
 ### Project Overview
 The unique EDEX trading platform provides a solution to Europe's smooth transition to the digital era. First of all, thanks to the perfect Decentralized Finance technology based on Binance Smart Chain. BSC smart contracts allowed the EuroSwap project to create a reliable, and most importantly, an affordable resource for the exchange of digital assets.
